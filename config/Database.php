@@ -5,7 +5,7 @@ class Database {
     private $host = 'localhost';
     private $db_name = 'myblog';
     private $username = 'root';
-    private $password = 'password';
+    private $password = '!Jarvis2019';
     private $conn;
 
     // DB connect
