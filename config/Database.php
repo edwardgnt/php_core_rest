@@ -4,8 +4,8 @@ class Database {
     // DB Params
     private $host = 'localhost';
     private $db_name = 'myblog';
-    private $username = 'root';
-    private $password = '!Jarvis2019';
+    private $username = '';
+    private $password = '';
     private $conn;
 
     // DB connect
